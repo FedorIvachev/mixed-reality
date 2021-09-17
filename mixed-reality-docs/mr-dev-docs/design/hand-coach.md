@@ -128,7 +128,7 @@ After you're satisfied with your animation
 
      ![Example: Export selection Menu Location](images/HandCoach/OptionBox.png)<br>
 
-     ![Example: Menu Location](images/HandCoach/SelectionExport.png)<br>
+     ![Exmaple: Menu Location](images/HandCoach/SelectionExport.png)<br>
 
      ![Example: Export Options Menu Location](images/HandCoach/FBXSelection.png)<br>
 
