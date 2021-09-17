@@ -4,7 +4,7 @@ description: Learn how 3D hands are triggered using hand coach when the system d
 author: grayclee
 ms.author: glee
 ms.date: 09/25/2019
-ms.topic: article
+ms.topic: articlekfl
 keywords: Windows Mixed Reality, design, Hand coach, immersive headset, MRTK, hands, helping hands, mixed reality headset, windows mixed reality headset, virtual reality headset, HoloLens, MRTK, Mixed Reality Toolkit
 ---
 
